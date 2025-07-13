@@ -1,0 +1,6 @@
+{
+  "name": "king-vibez-site",
+  "version": "1.0.0",
+  "scripts": { "start": "node api/contact.js" },
+  "dependencies": { "express": "^4.18.2", "nodemailer": "^6.9.1" }
+}
